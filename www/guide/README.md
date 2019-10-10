@@ -2,7 +2,7 @@
 
 Android 是一个支持多种移动设备的开源操作系统，由 [Google](https://www.google.com/about/) 公司和 [开放手机联盟](https://www.openhandsetalliance.com) 领导及开发。目前世界上大多数设备制造商都在生产搭载 Android 操作系统的智能手机、平板电脑等电子产品。
 
-这些设备制造商会在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上进行二次开发，提供定制系统以提升产品竞争力，吸引消费者。例如三星 [TouchWiz](https://baike.baidu.com/item/TouchWiz)，华为 [Emotion UI](https://baike.baidu.com/item/EMUI)，小米 [MIUI](https://baike.baidu.com/item/MIUI)，OPPO [Color OS](https://baike.baidu.com/item/ColorOS)，锤子 [Smartisan OS](https://baike.baidu.com/item/Smartisan%20OS) 等等。
+这些设备制造商会在 [Android 开源项目 (AOSP)](https://source.android.com/) 基础上进行二次开发，提供定制系统以提升产品竞争力，吸引消费者。例如三星 [TouchWiz](https://baike.baidu.com/item/TouchWiz)，华为 [Emotion UI](https://baike.baidu.com/item/EMUI)，小米 [MIUI](https://baike.baidu.com/item/MIUI)，OPPO [Color OS](https://baike.baidu.com/item/ColorOS)等等。
 
 ## ROM 介绍
 
